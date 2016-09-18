@@ -1,2 +1,3 @@
 # hello-world
 Lets code for fun.......
+"hello guys having a beer now @ Davis pub and trying to figure out git hub
